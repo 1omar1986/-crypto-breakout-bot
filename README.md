@@ -1,2 +1,0 @@
-# -crypto-breakout-bot
-  Private
